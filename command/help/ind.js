@@ -436,4 +436,13 @@ wa.me/6283171252216
 ──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
 `
 	}
+	exports.apps = (prefix, salam, pushname) =>{
+	return`*Hallo Kak ${pushname}*
+
+https://wa.me/p/4693847094027239/6283171252216
+
+Untuk melihat harga Apps Premium klik link diatas☝🏻
+`
+	}
+	
 	
