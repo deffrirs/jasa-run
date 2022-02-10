@@ -334,7 +334,7 @@ exports.jasher = (prefix, salam, pushname) =>{
 ،🍼֢𝆔𓂃็Aᥣᥣ trᥲx ᥒo rᥱff
 `
 	}
-exports.payment = (prefix, salam, pushname) =>{
+exports.am = (prefix, salam, pushname) =>{
 	return`Hallo Kak ${pushname} mau berlanggan Alight Motion?*
 
 *~ OPEN JASA AM Premium ~*
